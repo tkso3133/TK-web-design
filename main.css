@@ -32,6 +32,7 @@ header p {
 	background-size: 100% 100%;
   	color: #ffffff;
   	height: 500px;
+  	display: flex;
 }
 
 .jumbotron {
